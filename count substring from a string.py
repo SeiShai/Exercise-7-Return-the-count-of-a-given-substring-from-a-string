@@ -5,3 +5,6 @@
 sentence = 'Emma is a good developer. Emma is a writer.'
 count = sentence.count('Emma')
 
+# print output
+print(sentence)
+print('Emma appeared', count,'times in the sentence')
